@@ -1,0 +1,20 @@
+{
+    "name": "oxcesnippets",
+    "displayName": "oxcesnippets",
+    "description": "OXCE ruleset code snippet generator",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "yaml",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

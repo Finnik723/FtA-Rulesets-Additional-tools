@@ -1,0 +1,12 @@
+{
+    "Weapon Item rules Template": {
+        "prefix": "!weapon",
+        "body": [
+            "Weapon Item rules inserts here!",
+            "its power here", 
+            "its damage here"
+        ],
+        "description": "Weapon Item rules Template"
+    }
+
+}
