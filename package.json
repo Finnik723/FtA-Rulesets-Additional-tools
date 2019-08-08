@@ -19,7 +19,7 @@
         "grammars": [
             {
             "path": "./syntaxes/injection.json",
-            "scopeName": "todo-comment.injection",
+            "scopeName": "todo-string.injection",
             "injectTo": ["source.yaml"]
             }
         ]    

@@ -1,5 +1,5 @@
 {
-  "scopeName": "todo-comment.injection",
+  "scopeName": "todo-string.injection",
   "injectionSelector": "L:string.unquoted.plain.out.yaml",
   "patterns": [
     {
@@ -9,7 +9,7 @@
   "repository": {
     "keywords": {
       "match": "TODO",
-      "name": "keyword.todo"
+      "name": "entity.name.type.anchor.yaml"
     }
   }
 }
