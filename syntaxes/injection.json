@@ -1,0 +1,15 @@
+{
+  "scopeName": "todo-comment.injection",
+  "injectionSelector": "L:string.unquoted.plain.out.yaml",
+  "patterns": [
+    {
+      "include": "#keywords"
+    }
+  ],
+  "repository": {
+    "keywords": {
+      "match": "TODO",
+      "name": "keyword.todo"
+    }
+  }
+}

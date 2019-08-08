@@ -58,6 +58,16 @@
             "      FTAG_FLASHBANG_RESISTANCE: 20"
         ],
         "description": "Alien armor Template"
-
+    }, 
+    "research": {
+        "prefix": "!research",
+        "body": [
+            "  - name: STR_SAMPLE_RESEARCH",
+            "    cost: 0",
+            "    points: 0",
+            "    dependencies:",
+            "      - STR_SAMPLE"
+        ],
+        "description": "Alien armor Template"
     }
 }
